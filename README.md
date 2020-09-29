@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuff:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="54%" align="right" alt="Github" src="https://github.com/serban-mihai/serban-mihai/raw/master/myself.png" />
+<img width="53%" align="right" alt="Github" src="https://github.com/serban-mihai/serban-mihai/raw/master/myself.png" />
 
 - 👨🏽‍💻 I’m currently working as a Full Time DevOps Engineer
 - 🌱 I’m currently learning React.js and MongoDB
