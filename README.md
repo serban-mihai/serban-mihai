@@ -16,13 +16,14 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuff:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/serban-mihai/serban-mihai/raw/master/myself.png" />
 
 - 👨🏽‍💻 I’m currently working as a Full Time DevOps Engineer
 - 🌱 I’m currently learning React.js and MongoDB
 - 🤔 I’m looking for new Full Stack ideas to implement
 - :octocat: My biggest project has been [Djenitor](https://github.com/serban-mihai/Djenitor);
 - 📖 I got an Engineer's Degree in Computer Science
+- 🌍 I speak English 🇬🇧 Italian 🇮🇹 and Romanian 🇷🇴
 - :godmode: I LOVE anything involving DooM!
 - ⚡️ Fun-Fact: I play the guitar 🎸 both electric and air!
 - 📫 How to reach me: mihai.ciprian.serban@gmail.com;
