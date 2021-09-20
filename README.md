@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-ciprian-șerban)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_mihai.serban_)
-[![Twitter](https://img.shields.io/badge/-Twitter-c14438?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/MihaaaiSerban)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/MihaaaiSerban)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mihai.ciprian.serban@gmail.com)
 
 <!-- Talking about you -->
